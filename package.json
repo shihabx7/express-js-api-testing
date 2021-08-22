@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/shihabx7/express-js-api-testing/issues"
   },
-  "homepage": "https://github.com/shihabx7/express-js-api-testing#readme"
+  "homepage": "https://github.com/shihabx7/express-js-api-testing#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
